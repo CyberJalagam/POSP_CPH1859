@@ -90,9 +90,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GCam
 
-# Via
+# Firefox
 PRODUCT_PACKAGES += \
-    Via
+    FirefoxLite
 
 # QKsms
 PRODUCT_PACKAGES += \
