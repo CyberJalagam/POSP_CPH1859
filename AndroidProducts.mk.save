@@ -19,4 +19,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/potato_CPH1859.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_CPH1859-userdebug
+     potato_CPH1859-userdebug
