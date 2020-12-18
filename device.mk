@@ -98,10 +98,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     qksms
 
+# SoundPicker
+PRODUCT_PACKAGES += \
+    SoundPicker
+
 # Removed Packages
 PRODUCT_PACKAGES += \
     RemovePackages \
-    RemovePackages-1 \
     RemovePackages-2 \
     RemovePackages-3
 
