@@ -88,7 +88,7 @@ PRODUCT_PACKAGES += \
 
 # GCam Go
 PRODUCT_PACKAGES += \
-    GCam
+    CameraGo
 
 # Firefox
 PRODUCT_PACKAGES += \
